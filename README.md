@@ -21,3 +21,6 @@ map_generator_project/
 │   ├── __init__.py            # Torna a pasta um pacote Python
 │   └── visualization.py       # Módulo para exibir o mapa
 └── requirements.txt           # Lista de dependências do projeto
+
+
+Este projeto é distribuído sob a licença MIT. Sinta-se à vontade para usá-lo e modificá-lo conforme necessário.
